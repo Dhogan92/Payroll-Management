@@ -1,0 +1,11 @@
+/Users/SLR/Desktop/C-Sharp/PaymentCalculator/bin/Debug/netcoreapp2.1/PaymentCalculator.deps.json
+/Users/SLR/Desktop/C-Sharp/PaymentCalculator/bin/Debug/netcoreapp2.1/PaymentCalculator.runtimeconfig.json
+/Users/SLR/Desktop/C-Sharp/PaymentCalculator/bin/Debug/netcoreapp2.1/PaymentCalculator.runtimeconfig.dev.json
+/Users/SLR/Desktop/C-Sharp/PaymentCalculator/bin/Debug/netcoreapp2.1/PaymentCalculator.dll
+/Users/SLR/Desktop/C-Sharp/PaymentCalculator/bin/Debug/netcoreapp2.1/PaymentCalculator.pdb
+/Users/SLR/Desktop/C-Sharp/PaymentCalculator/obj/Debug/netcoreapp2.1/PaymentCalculator.csprojAssemblyReference.cache
+/Users/SLR/Desktop/C-Sharp/PaymentCalculator/obj/Debug/netcoreapp2.1/PaymentCalculator.csproj.CoreCompileInputs.cache
+/Users/SLR/Desktop/C-Sharp/PaymentCalculator/obj/Debug/netcoreapp2.1/PaymentCalculator.AssemblyInfoInputs.cache
+/Users/SLR/Desktop/C-Sharp/PaymentCalculator/obj/Debug/netcoreapp2.1/PaymentCalculator.AssemblyInfo.cs
+/Users/SLR/Desktop/C-Sharp/PaymentCalculator/obj/Debug/netcoreapp2.1/PaymentCalculator.dll
+/Users/SLR/Desktop/C-Sharp/PaymentCalculator/obj/Debug/netcoreapp2.1/PaymentCalculator.pdb
